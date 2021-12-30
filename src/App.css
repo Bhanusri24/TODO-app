@@ -1,3 +1,9 @@
+.page{
+  background-color: yellow;
+  text-align: left;
+  padding: 50px;
+  
+}
 .App {
   text-align: center;
 }
